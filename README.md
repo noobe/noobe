@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarath
 - 👀 I’m interested in learning something new.
-- 🌱 I’m currently learning JS, Typescript, React, Shell and Go to name a few.
+- 🌱 I’m currently learning JS, Typescript, React, Shell, Go and Python, to name a few.
 - 💞️ I’m not looking to collaborate on anything at the moment as I have a tight schedule.
 - 📫 How to reach me - well drop me a mail.
 
