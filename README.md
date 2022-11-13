@@ -1,11 +1,5 @@
 - 👋 Hi, I’m Sarath
-- 👀 I’m interested in learning something new.
-- 🌱 I’m currently learning:
-    - Languages: JS, Typescript, React, Shell, Go and Python, to name a few.
-    - Paradigms
-    - Architectures: Monolithic, Service Oriented, MicroService, Micro Frontend, MonoRepo, Event Driven to name a few
-- 💞️ I’m not looking to collaborate on anything at the moment as I have a tight schedule.
-- 📫 How to reach me - well drop me a mail.
+- 👀 I’m interested & currently learning 🌱 a lot of stuff and I try to document them in my repos:
 
 Repos:
 Learning Languages:
