@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sarath
 - 👀 I’m interested & currently learning 🌱 a lot of stuff and I try to document them in my repos:
 
-Repos:
 Learning Languages:
 - learning-html-css
 - learning-JS-Programs
