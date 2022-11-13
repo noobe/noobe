@@ -8,11 +8,30 @@
 - 📫 How to reach me - well drop me a mail.
 
 Repos:
-Learning:
+Learning Languages:
 - learning-html-css
+- learning-JS-Programs
+- learning-typescript
 - learning-java
 - learning-python
 - learning-go
+
+Learning Frameworks:
+- learning-nodejs
+- learning-reactjs
+- learning-redux
+- learning-redux-toolkit
+- learning-graphql
+- learning-react-storybook
+- learning-nextjs
+
+Learning OS:
+- learning-linux-shell-scripting
+
+Learning Programming:
+- learning-dsa-js
+- learning-regexp
+- learning-programing-paradigms
 
 Roadmap Prjects:
 - RoadMap: The plan
