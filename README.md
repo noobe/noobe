@@ -1,30 +1,12 @@
-- 👋 Hi, I’m Sarath
-- 👀 I’m interested & currently learning 🌱 a lot of stuff and I try to document them in my repos:
+👋 Hi, I’m Sarath. 👀 I’m interested & currently learning 🌱 a lot of stuff that I document in my repos:
 
-Learning Languages:
-- [HTML/CSS]([/learning-html-css](../noobe/learning-html-css))
-- learning-JS-Programs
-- learning-typescript
-- learning-java
-- learning-python
-- learning-go
+Learning Languages: [HTML/CSS](./../../../learning-html-css), [JavaScript](./../../../learning-JS-Programs), [TypeScript](./../../../learning-typescript), [Java](./../../../learning-java), [Python](./../../../learning-python), [Go](./../../../learning-go)
 
-Learning Frameworks:
-- learning-nodejs
-- learning-reactjs
-- learning-redux
-- learning-redux-toolkit
-- learning-graphql
-- learning-react-storybook
-- learning-nextjs
+Learning Libraries/Frameworks: [NodeJS](./../../../learning-nodejs), [ReactJS](./../../../learning-reactjs), [Redux](./../../../learning-redux), [Redux-ToolKit](./../../../learning-redux-toolkit), [GraphQL](./../../../learning-graphql), [React-Storybook](./../../../learning-html-css), [NextJS](./../../../learning-nextjs)
 
-Learning OS:
-- learning-linux-shell-scripting
+Learning OS: [Shell Scripting](./../../../learning-linux-shell-scripting)
 
-Learning Programming:
-- learning-dsa-js
-- learning-regexp
-- learning-programing-paradigms
+Learning Programming: [DSA](./../../../learning-dsa-js), [RegExp](./../../../learning-regexp), [Programming Paradigms](./../../../learning-programing-paradigms)
 
 Roadmap Prjects:
 - RoadMap: The plan
