@@ -2,7 +2,7 @@
 - 👀 I’m interested & currently learning 🌱 a lot of stuff and I try to document them in my repos:
 
 Learning Languages:
-- learning-html-css
+- [HTML/CSS](/noobe/learning-html-css)
 - learning-JS-Programs
 - learning-typescript
 - learning-java
