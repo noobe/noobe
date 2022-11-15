@@ -9,9 +9,15 @@ Learning OS: [Shell Scripting](./../../../learning-linux-shell-scripting)
 Learning Programming: [DSA](./../../../learning-dsa-js), [RegExp](./../../../learning-regexp), [Programming Paradigms](./../../../learning-programing-paradigms)
 
 Roadmap Prjects:
-- RoadMap: The plan
-- rm-01-create-vanilla-project-cli
-- rm-02-static-sites-layouts
+[RoadMap](./../../../RoadMap)
+[CLI for vanilla project](./../../../rm-01-create-vanilla-project-cli)
+[Static site](./../../../rm-02-static-sites-layouts)
+[Full stack static site](./../../../rm-03-fullstack-static-site)
+[Backend Templating](./../../../rm-04-backend-templating)
+[Vanilla SPA](./../../../rm-05-vanilla-spa)
+[Redux](./../../../rm-06-react-redux)
+[React Component Lib](./../../../rm-07-react-component-library)
+[React Project that uses lib components](./../../../rm-08-react-with-library-components)
 
 To be filled up...
 
