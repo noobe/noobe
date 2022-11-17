@@ -19,8 +19,6 @@ Roadmap Prjects:
 [React Component Lib](./../../../rm-07-react-component-library) > 
 [React Project that uses lib components](./../../../rm-08-react-with-library-components)
 
-To be filled up...
-
 <!---
 noobe/noobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
