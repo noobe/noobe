@@ -8,6 +8,8 @@ Learning OS: [Shell Scripting](./../../../learning-linux-shell-scripting)
 
 Learning Programming: [DSA](./../../../learning-dsa-js), [RegExp](./../../../learning-regexp), [Programming Paradigms](./../../../learning-programing-paradigms)
 
+Learning Architecture: [Architecture Notes](./../../..//Notes/tree/main/Software%20Architecture)
+
 Roadmap Prjects:
 [RoadMap](./../../../RoadMap) > 
 [CLI for vanilla project](./../../../rm-01-create-vanilla-project-cli) > 
