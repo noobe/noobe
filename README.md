@@ -8,7 +8,7 @@ Learning OS: [Shell Scripting](./../../../learning-linux-shell-scripting)
 
 Learning Programming: [DSA](./../../../learning-dsa-js), [RegExp](./../../../learning-regexp), [Programming Paradigms](./../../../learning-programing-paradigms)
 
-Learning Architecture: [Architecture Notes](./../../..//Notes/tree/main/Software%20Architecture)
+Learning Advanced items: [Architecture Notes](./../../../Notes/tree/main/Software%20Architecture), [Web Performance](./../../../Notes/tree/main/Web%20Performance)
 
 Roadmap Prjects:
 [RoadMap](./../../../RoadMap) > 
